@@ -1,2 +1,2 @@
 # SSD-Report
-smartmontools, nvme-cli result archive
+Supplement to my [blog](https://freshflash4096.github.io/tags/benchmark/)
