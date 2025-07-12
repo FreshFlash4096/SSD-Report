@@ -1,0 +1,29 @@
+Workload,Configuration Name,Execution Time (sec),Reference Result,Measured Result,Unit,SPEC Ratio,Weight,Notes
+WPCstorage,,,,,,0.75,,
+WPCstorage:3dsmax,DISK_VOLUME-D:,62.95,3299.42,2456.39,points,0.74,0.07,
+WPCstorage:7zip,DISK_VOLUME-D:,152.42,431.06,168.95,points,0.39,0.07,
+WPCstorage:ccx,DISK_VOLUME-D:,12.05,1398.45,932.65,points,0.67,0.07,
+WPCstorage:cfd,DISK_VOLUME-D:,12.11,1921.51,1378.09,points,0.72,0.07,
+WPCstorage:energy,DISK_VOLUME-D:,19.91,1547.93,1625.36,points,1.05,0.07,
+WPCstorage:handbrake,DISK_VOLUME-D:,14.90,1897.99,2184.65,points,1.15,0.07,
+WPCstorage:icePack,DISK_VOLUME-D:,51.58,1543.34,1712.66,points,1.11,0.07,
+WPCstorage:maya,DISK_VOLUME-D:,68.07,2037.06,1442.24,points,0.71,0.07,
+WPCstorage:MayaVenice,DISK_VOLUME-D:,25.16,472.63,754.60,points,1.60,0.07,
+WPCstorage:MandE,DISK_VOLUME-D:,19.19,1625.72,1668.42,points,1.03,0.07,
+WPCstorage:mcad,DISK_VOLUME-D:,91.97,2612.50,1466.31,points,0.56,0.07,
+WPCstorage:mozillaVS,DISK_VOLUME-D:,34.70,7708.43,3301.48,points,0.43,0.07,
+WPCstorage:namd,DISK_VOLUME-D:,19.09,1250.61,723.67,points,0.58,0.07,
+WPCstorage:proddev,DISK_VOLUME-D:,19.09,659.82,413.08,points,0.63,0.07,
+Vertical,,,,,,,
+Productivity & Development,,,,,,N/A,,This category SPEC ratio was not calculated because all of its required workloads were not run or did not complete successfully.
+Product Design,,,,,,N/A,,This category SPEC ratio was not calculated because all of its required workloads were not run or did not complete successfully.
+Media & Entertainment,,,,,,N/A,,This category SPEC ratio was not calculated because all of its required workloads were not run or did not complete successfully.
+Energy,,,,,,N/A,,This category SPEC ratio was not calculated because all of its required workloads were not run or did not complete successfully.
+AI & Machine Learning,,,,,,N/A,,This category SPEC ratio was not calculated because all of its required workloads were not run or did not complete successfully.
+Life Sciences,,,,,,N/A,,This category SPEC ratio was not calculated because all of its required workloads were not run or did not complete successfully.
+Financial Services,,,,,,N/A,,This category SPEC ratio was not calculated because all of its required workloads were not run or did not complete successfully.
+Subsystem,,,,,,,
+CPU,,,,,,N/A,,This category SPEC ratio was not calculated because all of its required workloads were not run or did not complete successfully.
+Accelerator,,,,,,N/A,,This category SPEC ratio was not calculated because all of its required workloads were not run or did not complete successfully.
+Graphics,,,,,,N/A,,This category SPEC ratio was not calculated because all of its required workloads were not run or did not complete successfully.
+Storage,,,,,,0.75,,
