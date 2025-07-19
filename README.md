@@ -11,6 +11,6 @@ They are sorted by the date they were posted on my blog.
 
 ## Samsung SSD Review
 [970 PRO 1TB](https://freshflash4096.github.io/the-last-mlc-970-pro/)   
-[PM981 256GB & PM981a 256GB](https://freshflash4096.github.io/samsungs-phoenix-cssdzip/)
-[PM9A1 1TB]()
+[PM981 256GB & PM981a 256GB](https://freshflash4096.github.io/samsungs-phoenix-cssdzip/)    
+
 
