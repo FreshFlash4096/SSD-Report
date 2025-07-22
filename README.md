@@ -5,6 +5,8 @@ All reviews on my blog are based in Korean.
 I tried to use English within images as much as possible to facilitate machine translation.   
 English subtitles will also be uploaded to YouTube.   
 
+If you just want to quickly check the final results, it's also a good idea to refer to [this page](https://github.com/FreshFlash4096/SSD-Report/wiki).   
+All data from the drives I've tested so far has been included :)   
 
 ## Review List
 ```
