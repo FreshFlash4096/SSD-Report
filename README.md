@@ -1,5 +1,5 @@
 # SSD-Report
-Supplement to my [Blog](https://freshflash4096.github.io/tags/benchmark/) & ([YouTube](https://www.youtube.com/@FreshFlash4096) - Getting ready!)
+Supplement to my [Blog](https://freshflash4096.github.io/tags/benchmark/) & [YouTube](https://www.youtube.com/@FreshFlash4096)
 
 All reviews on my blog are based in Korean.   
 I tried to use English within images as much as possible to facilitate machine translation.   
