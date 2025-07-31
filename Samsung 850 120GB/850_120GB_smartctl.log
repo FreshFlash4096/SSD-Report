@@ -1,0 +1,114 @@
+smartctl 7.4 2023-08-01 r5530 [x86_64-linux-6.12.0-55.20.1.el10_0.x86_64] (local build)
+Copyright (C) 2002-23, Bruce Allen, Christian Franke, www.smartmontools.org
+
+=== START OF INFORMATION SECTION ===
+Device Model:     Samsung SSD 850 120GB
+Serial Number:    
+LU WWN Device Id: 5 002538 d428dc3d3
+Firmware Version: MVT01B6Q
+User Capacity:    120,034,123,776 bytes [120 GB]
+Sector Size:      512 bytes logical/physical
+Rotation Rate:    Solid State Device
+Form Factor:      2.5 inches
+TRIM Command:     Available
+Device is:        Not in smartctl database 7.3/5610
+ATA Version is:   ACS-2, ATA8-ACS T13/1699-D revision 4c
+SATA Version is:  SATA 3.1, 6.0 Gb/s (current: 6.0 Gb/s)
+Local Time is:    Thu Jul 31 12:37:21 2025 KST
+SMART support is: Available - device has SMART capability.
+SMART support is: Enabled
+
+=== START OF READ SMART DATA SECTION ===
+SMART overall-health self-assessment test result: PASSED
+
+General SMART Values:
+Offline data collection status:  (0x00)	Offline data collection activity
+					was never started.
+					Auto Offline Data Collection: Disabled.
+Self-test execution status:      (   0)	The previous self-test routine completed
+					without error or no self-test has ever 
+					been run.
+Total time to complete Offline 
+data collection: 		(    0) seconds.
+Offline data collection
+capabilities: 			 (0x53) SMART execute Offline immediate.
+					Auto Offline data collection on/off support.
+					Suspend Offline collection upon new
+					command.
+					No Offline surface scan supported.
+					Self-test supported.
+					No Conveyance Self-test supported.
+					Selective Self-test supported.
+SMART capabilities:            (0x0003)	Saves SMART data before entering
+					power-saving mode.
+					Supports SMART auto save timer.
+Error logging capability:        (0x01)	Error logging supported.
+					General Purpose Logging supported.
+Short self-test routine 
+recommended polling time: 	 (   2) minutes.
+Extended self-test routine
+recommended polling time: 	 (  64) minutes.
+SCT capabilities: 	       (0x003d)	SCT Status supported.
+					SCT Error Recovery Control supported.
+					SCT Feature Control supported.
+					SCT Data Table supported.
+
+SMART Attributes Data Structure revision number: 1
+Vendor Specific SMART Attributes with Thresholds:
+ID# ATTRIBUTE_NAME          FLAG     VALUE WORST THRESH TYPE      UPDATED  WHEN_FAILED RAW_VALUE
+  5 Reallocated_Sector_Ct   0x0033   100   100   010    Pre-fail  Always       -       0
+  9 Power_On_Hours          0x0032   097   097   000    Old_age   Always       -       11760
+ 12 Power_Cycle_Count       0x0032   099   099   000    Old_age   Always       -       805
+177 Wear_Leveling_Count     0x0013   089   089   000    Pre-fail  Always       -       214
+179 Used_Rsvd_Blk_Cnt_Tot   0x0013   100   100   010    Pre-fail  Always       -       0
+181 Program_Fail_Cnt_Total  0x0032   100   100   010    Old_age   Always       -       0
+182 Erase_Fail_Count_Total  0x0032   100   100   010    Old_age   Always       -       0
+183 Runtime_Bad_Block       0x0013   100   099   010    Pre-fail  Always       -       0
+187 Reported_Uncorrect      0x0032   100   100   000    Old_age   Always       -       0
+190 Airflow_Temperature_Cel 0x0032   068   046   000    Old_age   Always       -       32
+195 Hardware_ECC_Recovered  0x001a   200   200   000    Old_age   Always       -       0
+199 UDMA_CRC_Error_Count    0x003e   100   100   000    Old_age   Always       -       0
+235 Unknown_Attribute       0x0012   099   099   000    Old_age   Always       -       156
+241 Total_LBAs_Written      0x0032   099   099   000    Old_age   Always       -       11440513462
+
+SMART Error Log Version: 1
+No Errors Logged
+
+SMART Self-test log structure revision number 1
+Num  Test_Description    Status                  Remaining  LifeTime(hours)  LBA_of_first_error
+# 1  Extended offline    Aborted by host               70%     11664         -
+# 2  Short offline       Completed without error       00%     11664         -
+# 3  Short offline       Completed without error       00%     11574         -
+# 4  Short offline       Completed without error       00%     11406         -
+# 5  Short offline       Completed without error       00%     11238         -
+# 6  Extended offline    Completed without error       00%     11166         -
+# 7  Short offline       Completed without error       00%     11070         -
+# 8  Short offline       Completed without error       00%     11036         -
+# 9  Short offline       Completed without error       00%     10903         -
+#10  Short offline       Completed without error       00%     10735         -
+#11  Short offline       Completed without error       00%     10567         -
+#12  Extended offline    Completed without error       00%     10495         -
+#13  Short offline       Completed without error       00%     10399         -
+#14  Short offline       Completed without error       00%     10231         -
+#15  Short offline       Completed without error       00%     10063         -
+#16  Short offline       Completed without error       00%      9895         -
+#17  Extended offline    Completed without error       00%      9752         -
+#18  Short offline       Completed without error       00%      9727         -
+#19  Short offline       Completed without error       00%      9559         -
+#20  Short offline       Completed without error       00%      9393         -
+#21  Short offline       Completed without error       00%      9225         -
+
+SMART Selective self-test log data structure revision number 1
+ SPAN  MIN_LBA  MAX_LBA  CURRENT_TEST_STATUS
+    1        0        0  Not_testing
+    2        0        0  Not_testing
+    3        0        0  Not_testing
+    4        0        0  Not_testing
+    5        0        0  Not_testing
+  255        0    65535  Read_scanning was never started
+Selective self-test flags (0x0):
+  After scanning selected spans, do NOT read-scan remainder of disk.
+If Selective self-test is pending on power-up, resume after 0 minute delay.
+
+The above only provides legacy SMART information - try 'smartctl -x' for more
+
