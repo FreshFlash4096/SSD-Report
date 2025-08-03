@@ -20,4 +20,5 @@ They are sorted by the date they were posted on my blog.
 [970 PRO 1TB](https://freshflash4096.github.io/the-last-mlc-970-pro/)   
 [PM981 256GB & PM981a 256GB](https://freshflash4096.github.io/samsungs-phoenix-cssdzip/)    
 [PM9E1 1TB](https://freshflash4096.github.io/over-10gbps-pm9e1-1tb/)
-
+[PM9E1 1TB - YouTube](https://youtu.be/8UBFEkZklgI)
+[PM983 960GB](https://freshflash4096.github.io/is-tlc-really-lower-in-performance-than-mlc-pm983-960gb/)
