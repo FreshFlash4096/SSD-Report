@@ -22,6 +22,7 @@ They are sorted by the date they were posted on my blog.
 [PM9E1 1TB](https://freshflash4096.github.io/over-10gbps-pm9e1-1tb/)   
 [PM9E1 1TB - YouTube](https://youtu.be/8UBFEkZklgI)   
 [PM983 960GB](https://freshflash4096.github.io/is-tlc-really-lower-in-performance-than-mlc-pm983-960gb/)   
+[PM1725 3.2TB = F320](https://freshflash4096.github.io/pm1725-32tb-oracle-f320-review/)   
    
 ### Extra   
 [China 64GB](https://freshflash4096.github.io/somnambulist-64gb-review/)    
