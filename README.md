@@ -14,7 +14,7 @@ They are sorted by the date they were posted on my blog.
 ```
 ### Intel SSD Review
 [Optane SSD 905P 960GB (1)](https://freshflash4096.github.io/benchmark-method/)   
-[Optane SSD 905P 960GB (2)](https://freshflash4096.github.io/the-product-behind-the-benchmarks-905p-960gb/)
+[Optane SSD 905P 960GB (2)](https://freshflash4096.github.io/the-product-behind-the-benchmarks-905p-960gb/)   
 [Optane DC SSD P4800X 750GB](https://freshflash4096.github.io/optane-p4800x-review/)
 
 ### Samsung SSD Review
