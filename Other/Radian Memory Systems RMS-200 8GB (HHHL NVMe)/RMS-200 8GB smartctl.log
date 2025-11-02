@@ -1,0 +1,57 @@
+smartctl 7.4 2023-08-01 r5530 [x86_64-linux-6.12.0-55.20.1.el10_0.x86_64] (local build)
+Copyright (C) 2002-23, Bruce Allen, Christian Franke, www.smartmontools.org
+
+=== START OF INFORMATION SECTION ===
+Model Number:                       RMS-200
+Serial Number:                      
+Firmware Version:                   ae34b8cc
+PCI Vendor/Subsystem ID:            0x1cc7
+IEEE OUI Identifier:                0x00e0cf
+Controller ID:                      0
+NVMe Version:                       <1.2
+Number of Namespaces:               1
+Namespace 1 Size/Capacity:          8,581,545,984 [8.58 GB]
+Namespace 1 Utilization:            0
+Namespace 1 Formatted LBA Size:     512
+Local Time is:                      Fri Oct 17 11:48:41 2025 KST
+Firmware Updates (0x09):            4 Slots, Slot 1 R/O
+Optional Admin Commands (0x0006):   Format Frmw_DL
+Optional NVM Commands (0x0006):     Wr_Unc DS_Mngmt
+Log Page Attributes (0x01):         S/H_per_NS
+
+Supported Power States
+St Op     Max   Active     Idle   RL RT WL WT  Ent_Lat  Ex_Lat
+ 0 +    25.00W       -        -    0  0  0  0      100     100
+
+Supported LBA Sizes (NSID 0x1)
+Id Fmt  Data  Metadt  Rel_Perf
+ 0 +     512       0         3
+ 1 -     512       8         3
+ 2 -    4096       0         0
+ 3 -    4096       8         0
+
+=== START OF SMART DATA SECTION ===
+SMART overall-health self-assessment test result: PASSED
+
+SMART/Health Information (NVMe Log 0x02)
+Critical Warning:                   0x00
+Temperature:                        36 Celsius
+Available Spare:                    0%
+Available Spare Threshold:          0%
+Percentage Used:                    0%
+Data Units Read:                    80,225,077,822 [41.0 PB]
+Data Units Written:                 831,797,262,665 [425 PB]
+Host Read Commands:                 400,186,277
+Host Write Commands:                90,820,852,759
+Controller Busy Time:               259,711
+Power Cycles:                       30
+Power On Hours:                     54,013
+Unsafe Shutdowns:                   16
+Media and Data Integrity Errors:    0
+Error Information Log Entries:      1
+
+Error Information (NVMe Log 0x01, 16 of 63 entries)
+No Errors Logged
+
+Self-tests not supported
+

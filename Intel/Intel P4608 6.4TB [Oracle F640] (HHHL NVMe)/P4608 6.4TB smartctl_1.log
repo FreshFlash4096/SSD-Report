@@ -1,0 +1,63 @@
+smartctl 7.4 2023-08-01 r5530 [x86_64-linux-6.12.0-55.20.1.el10_0.x86_64] (local build)
+Copyright (C) 2002-23, Bruce Allen, Christian Franke, www.smartmontools.org
+
+=== START OF INFORMATION SECTION ===
+Model Number:                       7335943:ICDPC5ED2ORA6.4T
+Serial Number:                      PHLE846500FQ6P4BGN-1
+Firmware Version:                   QDV1RF30
+PCI Vendor ID:                      0x8086
+PCI Vendor Subsystem ID:            0x108e
+IEEE OUI Identifier:                0x5cd2e4
+Total NVM Capacity:                 3,200,631,791,616 [3.20 TB]
+Unallocated NVM Capacity:           0
+Controller ID:                      0
+NVMe Version:                       1.2
+Number of Namespaces:               1
+Namespace 1 Size/Capacity:          3,200,631,791,616 [3.20 TB]
+Namespace 1 Formatted LBA Size:     512
+Namespace 1 IEEE EUI-64:            5cd2e4 8692550100
+Local Time is:                      Fri Oct 17 16:41:57 2025 KST
+Firmware Updates (0x02):            1 Slot
+Optional Admin Commands (0x0006):   Format Frmw_DL
+Optional NVM Commands (0x0002):     Wr_Unc
+Log Page Attributes (0x02):         Cmd_Eff_Lg
+Maximum Data Transfer Size:         32 Pages
+Warning  Comp. Temp. Threshold:     70 Celsius
+Critical Comp. Temp. Threshold:     75 Celsius
+
+Supported Power States
+St Op     Max   Active     Idle   RL RT WL WT  Ent_Lat  Ex_Lat
+ 0 +    13.50W       -        -    0  0  0  0        0       0
+
+Supported LBA Sizes (NSID 0x1)
+Id Fmt  Data  Metadt  Rel_Perf
+ 0 +     512       0         2
+ 1 -    4096       0         0
+
+=== START OF SMART DATA SECTION ===
+SMART overall-health self-assessment test result: PASSED
+
+SMART/Health Information (NVMe Log 0x02)
+Critical Warning:                   0x00
+Temperature:                        26 Celsius
+Available Spare:                    99%
+Available Spare Threshold:          10%
+Percentage Used:                    9%
+Data Units Read:                    39,232,441,594 [20.0 PB]
+Data Units Written:                 3,025,087,464 [1.54 PB]
+Host Read Commands:                 247,366,351,475
+Host Write Commands:                93,976,671,823
+Controller Busy Time:               348,271
+Power Cycles:                       34
+Power On Hours:                     47,966
+Unsafe Shutdowns:                   20
+Media and Data Integrity Errors:    0
+Error Information Log Entries:      0
+Warning  Comp. Temperature Time:    0
+Critical Comp. Temperature Time:    0
+
+Error Information (NVMe Log 0x01, 16 of 64 entries)
+No Errors Logged
+
+Self-tests not supported
+
