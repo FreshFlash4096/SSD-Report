@@ -12,6 +12,8 @@ All data from the drives I've tested so far has been included :)
 ```
 They are sorted by the date they were posted on my blog.
 ```
+[Benchmark Method](https://freshflash4096.github.io/refresh-ssd-benchmark-method/)   
+   
 ### Intel SSD Review
 [Optane SSD 905P 960GB (1)](https://freshflash4096.github.io/benchmark-method/)   
 [Optane SSD 905P 960GB (2)](https://freshflash4096.github.io/the-product-behind-the-benchmarks-905p-960gb/)   
@@ -25,6 +27,9 @@ They are sorted by the date they were posted on my blog.
 [PM983 960GB](https://freshflash4096.github.io/is-tlc-really-lower-in-performance-than-mlc-pm983-960gb/)   
 [PM1725 3.2TB = F320](https://freshflash4096.github.io/pm1725-32tb-oracle-f320-review/)   
 [SZ983 240GB & 983 ZET 960GB](https://freshflash4096.github.io/z-ssd-983-zet-sz983-review/)   
+   
+### Micron SSD Review   
+[P3 Plus 2TB](https://freshflash4096.github.io/micron-crucial-p3-plus-2tb-review/)
    
 ### Extra   
 [China 64GB](https://freshflash4096.github.io/somnambulist-64gb-review/)    
