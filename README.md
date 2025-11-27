@@ -29,7 +29,8 @@ They are sorted by the date they were posted on my blog.
 [SZ983 240GB & 983 ZET 960GB](https://freshflash4096.github.io/z-ssd-983-zet-sz983-review/)   
    
 ### Micron SSD Review   
-[P3 Plus 2TB](https://freshflash4096.github.io/micron-crucial-p3-plus-2tb-review/)
+[P3 Plus 2TB](https://freshflash4096.github.io/micron-crucial-p3-plus-2tb-review/)   
+[7300 MAX 3.2TB](https://freshflash4096.github.io/micron-7300-max-review/)   
    
 ### Extra   
 [China 64GB](https://freshflash4096.github.io/somnambulist-64gb-review/)    
