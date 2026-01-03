@@ -34,4 +34,5 @@ They are sorted by the date they were posted on my blog.
 [7450 MAX 1.6TB](https://freshflash4096.github.io/micron-7450-max-review/)   
 
 ### Extra   
-[China 64GB](https://freshflash4096.github.io/somnambulist-64gb-review/)    
+[China 64GB](https://freshflash4096.github.io/somnambulist-64gb-review/)   
+[C910 4TB](https://freshflash4096.github.io/klevv-c910-4tb-review/)   
