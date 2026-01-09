@@ -3,9 +3,7 @@ Supplement to my [Blog](https://freshflash4096.github.io/tags/benchmark/) & [You
 
 All reviews on my blog are based in Korean.   
 I tried to use English within images as much as possible to facilitate machine translation.   
-English subtitles will also be uploaded to YouTube.   
 
-If you just want to quickly check the final results, it's also a good idea to refer to [this page](https://github.com/FreshFlash4096/SSD-Report/wiki).   
 All data from the drives I've tested so far has been included :)   
 
 ## Review List
@@ -36,3 +34,4 @@ They are sorted by the date they were posted on my blog.
 ### Extra   
 [China 64GB](https://freshflash4096.github.io/somnambulist-64gb-review/)   
 [C910 4TB](https://freshflash4096.github.io/klevv-c910-4tb-review/)   
+[RMS-200 8GB](https://freshflash4096.github.io/radian-memory-systems-rms-200-review/)   
