@@ -3,7 +3,7 @@ vid       : 0x8086
 ssvid     : 0x8086
 sn        : 
 mn        : INTEL SSDPF21Q400GB                     
-fr        : L0310200
+fr        : L0310600
 rab       : 0
 ieee      : 5cd2e4
 cmic      : 0
@@ -14,7 +14,7 @@ cmic      : 0
 
 mdts      : 5
 cntlid    : 0
-ver       : 0x10300
+ver       : 0x10400
 rtd3r     : 0x1e8480
 rtd3e     : 0x493e0
 oaes      : 0x300
@@ -51,9 +51,9 @@ ctratt    : 0
   [0:0] : 0	128-bit Host Identifier Not Supported
 
 rrls      : 0
-cntrltype : 0
+cntrltype : 1
   [7:2] : 0	Reserved
-  [1:0] : 0	Controller type not reported
+  [1:0] : 0x1	I/O Controller
 fguid     : 00000000-0000-0000-5cd2-e456a7035651
 crdt1     : 0
 crdt2     : 0
@@ -148,9 +148,9 @@ mntmt     : 0
 mxtmt     : 0
  [15:0] : -459 °F (0 K)	Maximum Thermal Management Temperature (MXTMT)
 
-sanicap   : 0x3
-  [31:30] : 0	Additional media modification after sanitize operation completes successfully is not defined
-  [29:29] : 0	No-Deallocate After Sanitize bit in Sanitize command Supported
+sanicap   : 0x60000003
+  [31:30] : 0x1	Media is not additionally modified after sanitize operation completes successfully
+  [29:29] : 0x1	No-Deallocate After Sanitize bit in Sanitize command Not Supported
   [3:3] : 0	Media Verification and Post-Verification Deallocation state Not Supported
   [2:2] : 0	Overwrite Sanitize Operation Not Supported
   [1:1] : 0x1	Block Erase Sanitize Operation Supported
@@ -188,14 +188,14 @@ cqes      : 0x44
 
 maxcmd    : 0
 nn        : 128
-oncs      : 0x4e
+oncs      : 0x5e
   [10:10] : 0	All Fast Copy Not Supported
   [9:9] : 0	Copy Single Atomicity Not Supported
   [8:8] : 0	Copy Not Supported
   [7:7] : 0	Verify Not Supported
   [6:6] : 0x1	Timestamp Supported
   [5:5] : 0	Reservations Not Supported
-  [4:4] : 0	Save and Select Not Supported
+  [4:4] : 0x1	Save and Select Supported
   [3:3] : 0x1	Write Zeroes Supported
   [2:2] : 0x1	Data Set Management Supported
   [1:1] : 0x1	Write Uncorrectable Supported
@@ -210,8 +210,8 @@ fna       : 0x4
   [1:1] : 0	Crypto Erase Applies to Single Namespace(s)
   [0:0] : 0	Format Applies to Single Namespace(s)
 
-vwc       : 0
-  [2:1] : 0	Support for the NSID field set to FFFFFFFFh is not indicated
+vwc       : 0x6
+  [2:1] : 0x3	The Flush command supports NSID set to FFFFFFFFh
   [0:0] : 0	Volatile Write Cache Not Present
 
 awun      : 0
