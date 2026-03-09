@@ -1,0 +1,97 @@
+
+
+=== START OF INFORMATION SECTION ===
+Device Model:     HFS960G32MED-3410A
+Serial Number:    
+LU WWN Device Id: 
+Firmware Version: 20031P00
+User Capacity:    960,197,124,096 bytes [960 GB]
+Sector Sizes:     512 bytes logical, 4096 bytes physical
+Rotation Rate:    Solid State Device
+Form Factor:      2.5 inches
+TRIM Command:     Available
+Device is:        Not in smartctl database 7.3/5528
+ATA Version is:   ATA8-ACS (minor revision not indicated)
+SATA Version is:  SATA 3.1, 6.0 Gb/s (current: 6.0 Gb/s)
+Local Time is:    Sat Mar  7 15:22:04 2026 UTC
+SMART support is: Available - device has SMART capability.
+SMART support is: Enabled
+
+=== START OF READ SMART DATA SECTION ===
+SMART overall-health self-assessment test result: PASSED
+
+General SMART Values:
+Offline data collection status:  (0x03)	Offline data collection activity
+					is in progress.
+					Auto Offline Data Collection: Disabled.
+Self-test execution status:      (   0)	The previous self-test routine completed
+					without error or no self-test has ever
+					been run.
+Total time to complete Offline
+data collection: 		(  672) seconds.
+Offline data collection
+capabilities: 			 (0x19) SMART execute Offline immediate.
+					No Auto Offline data collection support.
+					Suspend Offline collection upon new
+					command.
+					Offline surface scan supported.
+					Self-test supported.
+					No Conveyance Self-test supported.
+					No Selective Self-test supported.
+SMART capabilities:            (0x0002)	Does not save SMART data before
+					entering power-saving mode.
+					Supports SMART auto save timer.
+Error logging capability:        (0x01)	Error logging supported.
+					General Purpose Logging supported.
+Short self-test routine
+recommended polling time: 	 (   2) minutes.
+Extended self-test routine
+recommended polling time: 	 (   2) minutes.
+SCT capabilities: 	       (0x0035)	SCT Status supported.
+					SCT Feature Control supported.
+					SCT Data Table supported.
+
+SMART Attributes Data Structure revision number: 0
+Vendor Specific SMART Attributes with Thresholds:
+ID# ATTRIBUTE_NAME          FLAG     VALUE WORST THRESH TYPE      UPDATED  WHEN_FAILED RAW_VALUE
+  1 Raw_Read_Error_Rate     0x000f   100   100   006    Pre-fail  Always       -       0
+  5 Reallocated_Sector_Ct   0x0032   100   100   036    Old_age   Always       -       0
+  9 Power_On_Hours          0x0032   099   099   000    Old_age   Always       -       1056
+ 12 Power_Cycle_Count       0x0032   100   100   020    Old_age   Always       -       431
+100 Unknown_Attribute       0x0032   100   100   000    Old_age   Always       -       6846129
+171 Unknown_Attribute       0x0032   100   100   000    Old_age   Always       -       0
+172 Unknown_Attribute       0x0032   100   100   000    Old_age   Always       -       0
+174 Unknown_Attribute       0x0030   100   100   000    Old_age   Offline      -       71
+175 Program_Fail_Count_Chip 0x0032   100   100   000    Old_age   Always       -       0
+176 Erase_Fail_Count_Chip   0x0032   100   100   000    Old_age   Always       -       0
+177 Wear_Leveling_Count     0x0032   100   100   000    Old_age   Always       -       7126144
+178 Used_Rsvd_Blk_Cnt_Chip  0x0032   100   100   000    Old_age   Always       -       34
+179 Used_Rsvd_Blk_Cnt_Tot   0x0032   100   100   000    Old_age   Always       -       623
+180 Unused_Rsvd_Blk_Cnt_Tot 0x0032   100   100   000    Old_age   Always       -       33681
+181 Program_Fail_Cnt_Total  0x0032   100   100   000    Old_age   Always       -       0
+182 Erase_Fail_Count_Total  0x0032   100   100   000    Old_age   Always       -       0
+183 Runtime_Bad_Block       0x0032   100   100   000    Old_age   Always       -       1
+187 Reported_Uncorrect      0x0032   100   100   000    Old_age   Always       -       0
+188 Command_Timeout         0x0032   100   100   000    Old_age   Always       -       26
+191 Unknown_SSD_Attribute   0x0032   100   100   000    Old_age   Always       -       0
+194 Temperature_Celsius     0x0002   075   035   000    Old_age   Always       -       25 (Min/Max 1/65)
+195 Hardware_ECC_Recovered  0x0032   100   100   000    Old_age   Always       -       0
+201 Unknown_SSD_Attribute   0x000e   100   100   000    Old_age   Always       -       0
+204 Soft_ECC_Correction     0x000e   100   100   000    Old_age   Always       -       0
+231 Unknown_SSD_Attribute   0x0033   100   100   010    Pre-fail  Always       -       100
+234 Unknown_Attribute       0x0032   100   100   000    Old_age   Always       -       27004
+241 Total_LBAs_Written      0x0032   100   100   000    Old_age   Always       -       17639
+242 Total_LBAs_Read         0x0032   100   100   000    Old_age   Always       -       14512
+250 Read_Error_Retry_Rate   0x0032   100   100   000    Old_age   Always       -       4573
+
+SMART Error Log Version: 0
+No Errors Logged
+
+SMART Self-test log structure revision number 1
+Num  Test_Description    Status                  Remaining  LifeTime(hours)  LBA_of_first_error
+# 1  Extended offline    Completed without error       00%        38         -
+# 2  Short offline       Completed without error       00%        38         -
+
+Selective Self-tests/Logging not supported
+
+The above only provides legacy SMART information - try 'smartctl -x' for more
