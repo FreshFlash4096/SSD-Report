@@ -21,6 +21,7 @@ They are sorted by the date they were posted on my blog.
 [P3 Plus 2TB](https://freshflash4096.github.io/micron-crucial-p3-plus-2tb-review/)   
 [7300 MAX 3.2TB](https://freshflash4096.github.io/micron-7300-max-review/)   
 [7450 MAX 1.6TB](https://freshflash4096.github.io/micron-7450-max-review/)  
+[1300 1TB](https://freshflash4096.github.io/micron-1300-review/)     
 
 ### Samsung SSD Review
 [970 PRO 1TB](https://freshflash4096.github.io/the-last-mlc-970-pro/)   
