@@ -15,7 +15,8 @@ They are sorted by the date they were posted on my blog.
 ### Intel SSD Review
 [Optane SSD 905P 960GB (1)](https://freshflash4096.github.io/benchmark-method/)   
 [Optane SSD 905P 960GB (2)](https://freshflash4096.github.io/the-product-behind-the-benchmarks-905p-960gb/)   
-[Optane DC SSD P4800X 750GB](https://freshflash4096.github.io/optane-p4800x-review/)
+[Optane DC SSD P4800X 750GB](https://freshflash4096.github.io/optane-p4800x-review/)   
+[Optane DC SSD P4800X 375GB](https://freshflash4096.github.io/p4800x-375gb-review/)   
 
 ### Micron SSD Review   
 [P3 Plus 2TB](https://freshflash4096.github.io/micron-crucial-p3-plus-2tb-review/)   
