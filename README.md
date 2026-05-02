@@ -40,3 +40,4 @@ They are sorted by the date they were posted on my blog.
 [China 64GB](https://freshflash4096.github.io/somnambulist-64gb-review/)   
 [C910 4TB](https://freshflash4096.github.io/klevv-c910-4tb-review/)   
 [RMS-200 8GB](https://freshflash4096.github.io/radian-memory-systems-rms-200-review/)   
+[China 960GB](https://freshflash4096.github.io/china-960gb-ssd-review/)  
