@@ -36,6 +36,7 @@ They are sorted by the date they were posted on my blog.
 
 ### SK hynix SSD Review   
 [P51 2TB](https://freshflash4096.github.io/sk-hynix-p51-review/)   
+[P31 2TB](https://freshflash4096.github.io/sk-hynix-p31-2tb-review/)   
 
 ### Extra   
 [China 64GB](https://freshflash4096.github.io/somnambulist-64gb-review/)   
