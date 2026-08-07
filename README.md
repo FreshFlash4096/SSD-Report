@@ -33,6 +33,7 @@ They are sorted by the date they were posted on my blog.
 [PM983 960GB](https://freshflash4096.github.io/is-tlc-really-lower-in-performance-than-mlc-pm983-960gb/)   
 [PM1725 3.2TB = F320](https://freshflash4096.github.io/pm1725-32tb-oracle-f320-review/)   
 [SZ983 240GB & 983 ZET 960GB](https://freshflash4096.github.io/z-ssd-983-zet-sz983-review/)   
+[870 EVO 1TB & 870 EVO 4TB](https://freshflash4096.github.io/870-evo-review/)     
 
 ### SK hynix SSD Review   
 [P51 2TB](https://freshflash4096.github.io/sk-hynix-p51-review/)   
