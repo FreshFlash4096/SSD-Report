@@ -42,6 +42,7 @@ They are sorted by the date they were posted on my blog.
 
 ### Western Digital SSD Review   
 [SN850X 4TB](https://freshflash4096.github.io/western-digital-sn850x-4tb-review/)     
+[SN8100 2TB](https://freshflash4096.github.io/sn8100-2tb-review/)     
 
 ### Extra   
 [China 64GB](https://freshflash4096.github.io/somnambulist-64gb-review/)   
