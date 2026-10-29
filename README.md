@@ -20,6 +20,7 @@ They are sorted by the date they were posted on my blog.
 [Optane Memory 32GB](https://freshflash4096.github.io/optane-memory-32gb-review/)   
 [P4608 6.4TB](https://freshflash4096.github.io/intel-p4608-review/)    
 [P1600X 118GB](https://freshflash4096.github.io/intel-optane-ssd-p1600x-118gb-review/)     
+[P5430 3.84TB & P5430 7.68TB](https://freshflash4096.github.io/intel-solidigm-p5430-review/)     
 
 ### Micron SSD Review   
 [P3 Plus 2TB](https://freshflash4096.github.io/micron-crucial-p3-plus-2tb-review/)   
